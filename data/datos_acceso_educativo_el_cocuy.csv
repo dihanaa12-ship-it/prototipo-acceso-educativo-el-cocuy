@@ -1,0 +1,31 @@
+id_caso,institucion,zona,vereda_o_sector,conectividad,tiene_computador,tiene_celular,acceso_internet_hogar,distancia_institucion_km,estabilidad_electrica,frecuencia_uso_plataformas,apoyo_familiar
+CASO-001,Institucion Educativa El Cocuy,Rural,Vereda Carrizal,Baja,No,Si,No,12.5,Media,Ocasional,Medio
+CASO-002,Institucion Educativa El Cocuy,Urbana,Casco urbano,Alta,Si,Si,Si,1.2,Alta,Diaria,Alto
+CASO-003,Institucion Educativa Tecnica,Rural,Vereda Tobal,Sin conectividad,No,No,No,18.0,Baja,Nunca,Bajo
+CASO-004,Institucion Educativa El Cocuy,Rural,Vereda Palchacual,Media,No,Si,Si,7.0,Media,Semanal,Medio
+CASO-005,Institucion Educativa Tecnica,Urbana,Barrio Centro,Alta,Si,Si,Si,0.8,Alta,Diaria,Alto
+CASO-006,Institucion Educativa El Cocuy,Rural,Vereda Mortino,Baja,No,Si,No,9.5,Baja,Ocasional,Bajo
+CASO-007,Institucion Educativa Normal Superior,Urbana,Barrio San Jose,Media,Si,Si,Si,2.0,Alta,Semanal,Medio
+CASO-008,Institucion Educativa El Cocuy,Rural,Vereda Upal,Sin conectividad,No,Si,No,20.0,Baja,Nunca,Medio
+CASO-009,Institucion Educativa Tecnica,Rural,Vereda La Playa,Baja,No,Si,No,14.0,Media,Ocasional,Bajo
+CASO-010,Institucion Educativa Normal Superior,Urbana,Casco urbano,Alta,Si,Si,Si,1.5,Alta,Diaria,Alto
+CASO-011,Institucion Educativa El Cocuy,Rural,Vereda Cucharos,Media,Si,Si,Si,6.0,Media,Semanal,Medio
+CASO-012,Institucion Educativa Tecnica,Rural,Vereda Primavera,Baja,No,Si,No,11.0,Media,Ocasional,Medio
+CASO-013,Institucion Educativa El Cocuy,Urbana,Barrio El Carmen,Alta,Si,Si,Si,1.0,Alta,Diaria,Alto
+CASO-014,Institucion Educativa Normal Superior,Rural,Vereda La Esperanza,Sin conectividad,No,No,No,16.0,Baja,Nunca,Bajo
+CASO-015,Institucion Educativa Tecnica,Rural,Vereda Llano Grande,Media,No,Si,Si,8.0,Media,Semanal,Medio
+CASO-016,Institucion Educativa El Cocuy,Urbana,Barrio Libertador,Alta,Si,Si,Si,2.5,Alta,Diaria,Alto
+CASO-017,Institucion Educativa Tecnica,Rural,Vereda El Cardon,Baja,No,Si,No,13.0,Baja,Ocasional,Bajo
+CASO-018,Institucion Educativa Normal Superior,Urbana,Barrio Norte,Media,Si,Si,Si,3.0,Alta,Semanal,Medio
+CASO-019,Institucion Educativa El Cocuy,Rural,Vereda Pantano Grande,Sin conectividad,No,Si,No,21.0,Baja,Nunca,Bajo
+CASO-020,Institucion Educativa Tecnica,Urbana,Casco urbano,Alta,Si,Si,Si,1.7,Alta,Diaria,Alto
+CASO-021,Institucion Educativa El Cocuy,Rural,Vereda El Tablon,Baja,No,Si,No,10.0,Media,Ocasional,Medio
+CASO-022,Institucion Educativa Normal Superior,Rural,Vereda La Cueva,Media,Si,Si,Si,5.0,Media,Semanal,Medio
+CASO-023,Institucion Educativa Tecnica,Rural,Vereda El Uvo,Sin conectividad,No,No,No,19.0,Baja,Nunca,Bajo
+CASO-024,Institucion Educativa El Cocuy,Urbana,Barrio Santander,Alta,Si,Si,Si,1.1,Alta,Diaria,Alto
+CASO-025,Institucion Educativa Tecnica,Rural,Vereda Agua Blanca,Baja,No,Si,No,15.5,Media,Ocasional,Bajo
+CASO-026,Institucion Educativa Normal Superior,Urbana,Barrio Kennedy,Media,Si,Si,Si,2.3,Alta,Semanal,Alto
+CASO-027,Institucion Educativa El Cocuy,Rural,Vereda La Capilla,Baja,No,Si,No,9.0,Media,Ocasional,Medio
+CASO-028,Institucion Educativa Tecnica,Rural,Vereda El Moral,Media,No,Si,Si,6.5,Media,Semanal,Medio
+CASO-029,Institucion Educativa Normal Superior,Rural,Vereda Montebello,Sin conectividad,No,Si,No,22.0,Baja,Nunca,Bajo
+CASO-030,Institucion Educativa El Cocuy,Urbana,Casco urbano,Alta,Si,Si,Si,0.9,Alta,Diaria,Alto
